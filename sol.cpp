@@ -15,7 +15,7 @@ int main() {
 		// we know that mod 4 contains the set of numbers that are STRICTLY less than 4
 		// [0, 4) or {0, 1, 2, 3}
 		
-		// for every number in the set it will produce the following result:
+		// for every number in the set it will produce the following results:
 		
 		// if n mod 4 is equal to 0:
 		// the answer is always the original number, x0
