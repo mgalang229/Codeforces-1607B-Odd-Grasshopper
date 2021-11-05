@@ -36,7 +36,7 @@ int main() {
 		
 		// if n mod 4 is equal to 3:
 		// as can be observed in the pattern, the value that we 
-		// need to add to x0 is a multiple of 4
+		// need to add/subtract to x0 is a multiple of 4
 		
 		// for example:
 		// let x0 = 10, n = 3
